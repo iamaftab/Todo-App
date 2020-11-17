@@ -14,10 +14,13 @@ function AddTodoList(){
     deletebtn.innerText = "Delete";
     deletebtn.setAttribute("id", "delete");
     deletebtn.setAttribute("class", "deleteBtn");
+    if(todo_text.value !="")
+    {
     listItem.innerHTML = todo_text.value;
     li.appendChild(listItem);
     li.appendChild(deletebtn);
     lists.appendChild(li);
+    }
     // Clear the input field
     todo_text.value = "";
     todo_text.focus();

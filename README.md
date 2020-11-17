@@ -4,4 +4,4 @@
 
 ---
 
-- This is a simple <code>Todo</code> app using  <h3><kbd> __JavaScript__.</kbd></h3>
+- This is a simple <code>Todo</code> app using <kbd> __JavaScript__.</kbd>
