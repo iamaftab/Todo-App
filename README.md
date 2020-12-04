@@ -1,6 +1,6 @@
 <h1 align="center">Todo List App</h1>
 
-[Live Website](https://iamaftab.github.io/Todo-App/)
+[Live Website](https://iamaftab.github.io/todo-app/)
 
 ---
 
